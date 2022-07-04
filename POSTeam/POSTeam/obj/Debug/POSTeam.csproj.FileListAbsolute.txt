@@ -1,0 +1,22 @@
+C:\Users\aliez\source\repos\POSTeam\POSTeam\bin\Debug\POSTeam.exe.config
+C:\Users\aliez\source\repos\POSTeam\POSTeam\bin\Debug\POSTeam.exe
+C:\Users\aliez\source\repos\POSTeam\POSTeam\bin\Debug\POSTeam.pdb
+C:\Users\aliez\source\repos\POSTeam\POSTeam\obj\Debug\POSTeam.csprojAssemblyReference.cache
+C:\Users\aliez\source\repos\POSTeam\POSTeam\obj\Debug\POSTeam.Properties.Resources.resources
+C:\Users\aliez\source\repos\POSTeam\POSTeam\obj\Debug\POSTeam.csproj.GenerateResource.cache
+C:\Users\aliez\source\repos\POSTeam\POSTeam\obj\Debug\POSTeam.csproj.CoreCompileInputs.cache
+C:\Users\aliez\source\repos\POSTeam\POSTeam\obj\Debug\POSTeam.exe
+C:\Users\aliez\source\repos\POSTeam\POSTeam\obj\Debug\POSTeam.pdb
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.Form1.resources
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.Properties.Resources.resources
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.csproj.GenerateResource.cache
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.csproj.CoreCompileInputs.cache
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.csprojAssemblyReference.cache
+F:\Ali Project\POSTeam\POSTeam\POSTeam\bin\Debug\POSTeam.exe.config
+F:\Ali Project\POSTeam\POSTeam\POSTeam\bin\Debug\POSTeam.exe
+F:\Ali Project\POSTeam\POSTeam\POSTeam\bin\Debug\POSTeam.pdb
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.exe
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.pdb
+F:\Ali Project\POSTeam\POSTeam\POSTeam\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Ali Project\POSTeam\POSTeam\POSTeam\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\Ali Project\POSTeam\POSTeam\POSTeam\obj\Debug\POSTeam.csproj.CopyComplete
